@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects related to business intelligence, data science, and machine learning, especially those that can benefit from my background in data analytics and my creative approach to problem-solving.
 - 🤔 I’m looking for help with understanding the nuances of deep learning models and their application in real-world scenarios. I'm keen on contributing to projects where I can apply and grow this knowledge.
 - 💬 Ask me about my experience with data analysis tools like Alteryx, SQL, and Tableau, or about my project automating workflows in JIRA to improve operational efficiency.
-- 📫 How to reach me: Feel free to drop me an email at joyceee31@email.com or connect with me on LinkedIn (LinkedIn profile URL).
+- 📫 How to reach me: Feel free to drop me an email at joycechen3148@email.com or connect with me on LinkedIn (https://www.linkedin.com/in/chen-jiaxin-joyce/).
 - 😄 Pronouns: She/Her
 
