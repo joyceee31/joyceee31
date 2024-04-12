@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**joyceee31/joyceee31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on enhancing my data analysis skills, particularly focusing on projects that involve complex data sets and require innovative solutions for data visualization and interpretation.
 - 🌱 I’m currently learning advanced machine learning techniques and exploring the capabilities of AI in analytics through my Master's program at Cornell Tech. I'm also diving deeper into Python and R for statistical analysis.
